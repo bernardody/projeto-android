@@ -1,5 +1,5 @@
 <p>
 &#x2757 
-<a href="https://bernardody-mpresotto.github.io/projeto-android/">PROJETO ANDROID</a>
+<a target="_blank" href="https://bernardody-mpresotto.github.io/projeto-android/">PROJETO ANDROID</a>
  &#x2757
 </p>
