@@ -1,2 +1,5 @@
-
-<a href="https://bernardody-mpresotto.github.io/projeto-android/">&#x2757 PROJETO ANDROID &#x2757 </a>
+<p>
+&#x2757 
+<a href="https://bernardody-mpresotto.github.io/projeto-android/">PROJETO ANDROID</a>
+ &#x2757
+</p>
